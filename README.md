@@ -7,7 +7,7 @@ My goals in undertaking this project are as follows:
 
 1. Learn about the shell and the idea of scripting.
 1. Learn about using a high level language like python to interface with other enviroments.
-In particular using python to control the shell towards and end. 
+In particular using python to control the shell towards an end. 
 1. Exercise my somewhat weak foundation in creating, maintaining, and utilizing git/github. 
 1. Ultimately be capable of sending/receiving messages to anyone who can shh into Lilith (including the owner themselves.)
 
